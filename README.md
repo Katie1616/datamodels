@@ -6,3 +6,4 @@
 * IMAGE: IMAGE.md
 * Redis: redis.md
 * Apache Cassandra: ApacheCassandra.md
+* Elasticsearch: Elasticsearch.md
