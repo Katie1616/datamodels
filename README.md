@@ -4,4 +4,5 @@
 * InterSystems Caché: InterSystemsCache.md
 * Filemaker: filemaker.md
 * IMAGE: IMAGE.md
-* MongoDB: mongodb.md
+* Redis: redis.md
+* Apache Cassandra: ApacheCassandra.md
