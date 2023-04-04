@@ -7,3 +7,4 @@
 * Redis: redis.md
 * Apache Cassandra: ApacheCassandra.md
 * Elasticsearch: Elasticsearch.md
+* DBase: DBase.md
