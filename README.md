@@ -8,3 +8,4 @@
 * Apache Cassandra: ApacheCassandra.md
 * Elasticsearch: Elasticsearch.md
 * DBase: DBase.md
+* Splunk: Splunk.md
